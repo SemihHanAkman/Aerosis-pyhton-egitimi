@@ -1,0 +1,1 @@
+# Aerosis-pyhton-egitimi
