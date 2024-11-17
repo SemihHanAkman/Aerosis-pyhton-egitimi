@@ -1,1 +1,1 @@
-# Aerosis-pyhton-egitimi
+#deneme
